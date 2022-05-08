@@ -1,4 +1,4 @@
-name: Build
+name: Dotnet
 on:
   push:
     branches:
